@@ -40,6 +40,6 @@ Ensure you have **Node.js** installed
 ### 2. Clone and Navigate to the Repository
 ```bash
 git clone https://github.com/Binamra-rs/book_pal.git
-cd book-pal
+cd book-pal```
 
 Note: AI assistance was used in the development and writing of this README file to ensure standard formatting and professional developer documentation guidelines.
